@@ -1,0 +1,13 @@
+body{
+    background-color: greenyellow;
+}
+.boula{
+    position: relative;
+    padding: 3% 3%;
+    border-color: grey;
+    background: white;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    border-radius: 13px;
+}
